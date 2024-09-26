@@ -17,7 +17,7 @@ dependencies:
   fimber: ^0.6.4
   http: ^0.13.4
   image: ^3.1.1
-  intl: ^0.17.0
+  intl: ^0.18.0
   meta: ^1.7.0
   path: ^1.8.0
   universal_io: ^2.0.4
