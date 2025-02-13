@@ -41,8 +41,8 @@ dependencies:
   idb_shim: ^2.0.1
   #  idb_sqflite: ^1.1.0
   #  sqflite_common_ffi: ^2.1.0+2
-  flutter_fimber: ^0.6.4
-  fimber: ^0.6.4
+  flutter_fimber: ^0.7.1
+  fimber: ^0.7.0
   bloc: ^8.0.2
   flutter_bloc: ^8.0.1
   flutter_inappwebview: ^6.1.0+1
